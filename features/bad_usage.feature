@@ -1,4 +1,4 @@
-Feature: Bad usage
+Feature:
     As a lazy coffee user
     I can ignore the message displayed by the machine
     So I can have coffee and let other people have to clean after me
@@ -10,3 +10,4 @@ Feature: Bad usage
     When I take "50" coffees
     Then message "Empty grounds" should be displayed
     And coffee should be served
+    
