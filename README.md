@@ -47,3 +47,6 @@ The SUT implementation can be seen in [``src/coffee_machine.rb``](https://github
 The test report is generated in the ```results/``` folder.
 
 yo
+
+
+lp
