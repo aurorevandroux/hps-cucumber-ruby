@@ -1,4 +1,4 @@
-Feature: Corona 2
+Feature: Corona 3
   Scenario: Successful Login with Valid Credentials
     Given User is on Home Page
     When User Navigate to LogIn Page
