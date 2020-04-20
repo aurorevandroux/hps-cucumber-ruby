@@ -1,5 +1,4 @@
 Feature: corona 1000
-kjfhslkfh sdlkjfhqsldkfhqsld fkjsqhd lfk
   Scenario: Successful Login with Valid Credentials 50000
     Given User is on Home Page
     When User Navigate to LogIn Page
