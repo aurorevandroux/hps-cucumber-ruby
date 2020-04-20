@@ -1,4 +1,4 @@
-Feature: corona 8
+Feature: corona 1000
   Scenario: Successful Login with Valid Credentials
     Given User is on Home Page
     When User Navigate to LogIn Page
