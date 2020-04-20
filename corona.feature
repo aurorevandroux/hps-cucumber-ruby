@@ -1,5 +1,5 @@
 Feature: corona 1000
-  Scenario: Successful Login with Valid Credentials
+  Scenario: Successful Login with Valid Credentials 50000
     Given User is on Home Page
     When User Navigate to LogIn Page
     And User enters UserName and Password
